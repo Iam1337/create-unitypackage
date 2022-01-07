@@ -1,0 +1,26 @@
+{
+  "name": "@iam1337/create-unitypackage",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Iam1337/create-unitypackage",
+  "repository": "Iam1337/create-unitypackage",
+  "description": "semantic-release plugin to create unitypackage",
+  "license": "MIT",
+  "author": "dr. ext",
+
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "@semantic-release/error": "^3.0.0",
+    "aggregate-error": "^3.0.0",
+    "glob": "^7.1.0",
+    "lodash": "^4.17.21",
+    "unitypackage": "^1.0.3"
+  },
+
+  "peerDependencies": {
+    "semantic-release": ">=11.0.0"
+  }
+}
