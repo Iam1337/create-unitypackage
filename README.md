@@ -2,7 +2,7 @@
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) plugin to create a [unitypackage](https://docs.unity3d.com/Manual/AssetPackages.html).
 
-[![Build Status](https://github.com/semantic-release/npm/workflows/Test/badge.svg)](https://github.com/semantic-release/npm/actions?query=workflow%3ATest+branch%3Amaster)
+[![⚙ Release](https://github.com/Iam1337/create-unitypackage/actions/workflows/ci.yml/badge.svg)](https://github.com/Iam1337/create-unitypackage/actions/workflows/ci.yml)
 [![npm latest version](https://img.shields.io/npm/v/@iam1337/create-unitypackage/latest.svg)](https://www.npmjs.com/package/@iam1337/create-unitypackage)
 
 | Step               | Description |
