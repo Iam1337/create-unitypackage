@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Iam1337/create-unitypackage/compare/v1.0.1...v1.0.2) (2022-01-07)
+
+
+### Bug Fixes
+
+* **ci:** rename action ([fb9fef4](https://github.com/Iam1337/create-unitypackage/commit/fb9fef4c7bdf0d01282dd9a340a0fde8bb8da421))
+
 ## [1.0.1](https://github.com/Iam1337/create-unitypackage/compare/v1.0.0...v1.0.1) (2022-01-07)
 
 
