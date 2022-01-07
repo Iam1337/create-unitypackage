@@ -24,15 +24,15 @@ The plugin can be configured in the [**semantic-release** configuration file](ht
 {
   "plugins": [
     ["@iam1337/create-unitypackage", {
-			"packageRoot": "Assets/Package",
-			"projectRoot": "./",
-			"output": "Package.unitypackage"
-		}],
+      "packageRoot": "Assets/Package",
+      "projectRoot": "./",
+      "output": "Package.unitypackage"
+    }],
     ["@semantic-release/github", {
-			"assets": [
-				{"path": "Package.unitypackage", "label": "Package v${nextRelease.version}"}
-			]
-		}]
+      "assets": [
+        {"path": "Package.unitypackage", "label": "Package v${nextRelease.version}"}
+      ]
+    }]
   ]
 }
 ```
