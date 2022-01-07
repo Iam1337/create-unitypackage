@@ -4,6 +4,7 @@
 
 [![⚙ Release](https://github.com/Iam1337/create-unitypackage/actions/workflows/ci.yml/badge.svg)](https://github.com/Iam1337/create-unitypackage/actions/workflows/ci.yml)
 [![npm latest version](https://img.shields.io/npm/v/@iam1337/create-unitypackage/latest.svg)](https://www.npmjs.com/package/@iam1337/create-unitypackage)
+[![](https://img.shields.io/github/license/iam1337/create-unitypackage.svg)](https://github.com/Iam1337/create-unitypackage/blob/master/LICENSE)
 
 | Step               | Description |
 |--------------------|-------------|
