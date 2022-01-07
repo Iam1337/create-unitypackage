@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Iam1337/create-unitypackage/compare/v1.0.2...v1.0.3) (2022-01-07)
+
+
+### Bug Fixes
+
+* **verify:** added output verify end with .unitypacakge ([aba0d6d](https://github.com/Iam1337/create-unitypackage/commit/aba0d6d79647969c1d7b9fbab284e126b64bf693))
+
 ## [1.0.2](https://github.com/Iam1337/create-unitypackage/compare/v1.0.1...v1.0.2) (2022-01-07)
 
 

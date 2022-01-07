@@ -1,6 +1,6 @@
 {
   "name": "@iam1337/create-unitypackage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/Iam1337/create-unitypackage",
   "repository": "Iam1337/create-unitypackage",
   "description": "semantic-release plugin to create unitypackage",
