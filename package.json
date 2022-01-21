@@ -1,11 +1,25 @@
 {
   "name": "@iam1337/create-unitypackage",
+  "description": "semantic-release plugin to create unitypackage",
   "version": "1.0.3",
   "homepage": "https://github.com/Iam1337/create-unitypackage",
-  "repository": "Iam1337/create-unitypackage",
-  "description": "semantic-release plugin to create unitypackage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iam1337/create-unitypackage.git"
+  },
   "license": "MIT",
   "author": "dr. ext",
+  "keywords": [
+    "automation",
+    "module",
+    "package",
+    "unity",
+    "unitypackage",
+    "release",
+    "semver",
+    "version",
+    "semantic-release"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
