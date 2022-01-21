@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Iam1337/create-unitypackage/compare/v1.0.3...v1.0.4) (2022-01-21)
+
+
+### Bug Fixes
+
+* **package:** update package.json ([d22aa39](https://github.com/Iam1337/create-unitypackage/commit/d22aa394b051e810870e4e8d2b0587a547ed80d5))
+
 ## [1.0.3](https://github.com/Iam1337/create-unitypackage/compare/v1.0.2...v1.0.3) (2022-01-07)
 
 
