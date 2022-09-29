@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/Iam1337/create-unitypackage/compare/v1.0.4...v1.0.5) (2022-09-29)
+
+
+### Bug Fixes
+
+* fixed unitypackage npm version ([a83b16e](https://github.com/Iam1337/create-unitypackage/commit/a83b16ecce0873917efb2fb3125d06a4507b75ae))
+
 ## [1.0.4](https://github.com/Iam1337/create-unitypackage/compare/v1.0.3...v1.0.4) (2022-01-21)
 
 
