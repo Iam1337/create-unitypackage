@@ -29,7 +29,7 @@
     "aggregate-error": "^3.0.0",
     "glob": "^7.1.0",
     "lodash": "^4.17.21",
-    "unitypackage": "^1.0.3"
+    "unitypackage": "1.0.3"
   },
   "peerDependencies": {
     "semantic-release": ">=11.0.0"
