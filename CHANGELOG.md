@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/Iam1337/create-unitypackage/compare/v1.0.6...v1.0.7) (2023-01-18)
+
+
+### Bug Fixes
+
+* try debug ([493fa55](https://github.com/Iam1337/create-unitypackage/commit/493fa55f025e227f25072d19b6f25c690e428ff5))
+
 ## [1.0.6](https://github.com/Iam1337/create-unitypackage/compare/v1.0.5...v1.0.6) (2023-01-18)
 
 
