@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/Iam1337/create-unitypackage.git"
   },
+  "type": "module",
   "license": "MIT",
   "author": "dr. ext",
   "keywords": [
@@ -28,8 +29,9 @@
     "@semantic-release/error": "^3.0.0",
     "aggregate-error": "^3.0.0",
     "glob": "^7.1.0",
-    "lodash": "^4.17.21",
-    "unitypackage": "^1.0.7"
+    "lodash-es": "^4.17.21",
+    "unitypackage": "^1.0.7",
+    "json": "^11.0.0"
   },
   "peerDependencies": {
     "semantic-release": ">=19.0.0"

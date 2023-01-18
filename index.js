@@ -1,9 +1,9 @@
-const verifyPackage = require("./lib/verify");
-const preparePackage = require("./lib/prepare");
+import verifyPackage from "./lib/verify.js";
+import preparePackage from "./lib/prepare.js";
 
 let verified;
 
-async function verifyConditions(pluginConfig, context) {
+export async function verifyConditions(pluginConfig, context) {
     const { options } = context;
     if (options.prepare) {
         const preparePlugin = castArray(options.prepare).find(config => config.path && config.path === "@iam1337/create-unitypackage") || {};
@@ -17,7 +17,7 @@ async function verifyConditions(pluginConfig, context) {
     verified = true;
 }
 
-async function prepare(pluginConfig, context) {
+export async function prepare(pluginConfig, context) {
     if (!verified) {
         verifyPackage(pluginConfig, context);
         verified = true;
@@ -25,5 +25,3 @@ async function prepare(pluginConfig, context) {
 
     preparePackage(pluginConfig, context);
 }
-
-module.exports = { verifyConditions, prepare };
