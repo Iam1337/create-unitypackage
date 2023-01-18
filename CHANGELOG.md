@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Iam1337/create-unitypackage/compare/v1.0.7...v1.1.0) (2023-01-18)
+
+
+### Features
+
+* **package:** move to esm ([d0c9ffd](https://github.com/Iam1337/create-unitypackage/commit/d0c9ffd41e956c54f97aaf1492d08184619f15fa))
+
 ## [1.0.7](https://github.com/Iam1337/create-unitypackage/compare/v1.0.6...v1.0.7) (2023-01-18)
 
 
