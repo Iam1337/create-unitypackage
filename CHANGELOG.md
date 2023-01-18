@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/Iam1337/create-unitypackage/compare/v1.0.5...v1.0.6) (2023-01-18)
+
+
+### Bug Fixes
+
+* **ci:** update ci logic ([a62550d](https://github.com/Iam1337/create-unitypackage/commit/a62550de534eb7308bfcda5fbf99a870418ca0ec))
+* try move to newer version ([87b216c](https://github.com/Iam1337/create-unitypackage/commit/87b216c16a4738a2d6a9ba13ed290ffd523dbadc))
+
 ## [1.0.5](https://github.com/Iam1337/create-unitypackage/compare/v1.0.4...v1.0.5) (2022-09-29)
 
 
